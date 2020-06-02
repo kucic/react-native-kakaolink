@@ -1,5 +1,5 @@
 {
-  "name": "react-native-kakao-links/kucic",
+  "name": "@react-native-kakao-links/kucic",
   "version": "1.0.0",
   "description": "React-Native Module for KakaoLink",
   "main": "index.js",
