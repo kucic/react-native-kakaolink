@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.version      = package['version']
   s.summary      = "Kakao Links"
 
-  s.authors      = { "author" => "punkblood9@gmail.com" }
+  s.authors      = { "kucic" => "punkblood9@gmail.com" }
   s.homepage     = "https://github.com/kucic/react-native-kakaolink"
   s.license      = package['license']
   s.platform     = :ios, "9.0"
