@@ -1,0 +1,27 @@
+{
+  "name": "react-native-kakaolinks",
+  "version": "1.0.0",
+  "description": "React-Native Module for KakaoLink",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "react-native",
+    "kakao",
+  ],
+  "author": {
+    "name": "kucic",
+    "url": "https://github.com/kucic/react-native-kakaolink.git"
+  },
+  "homepage": "https://github.com/kucic/react-native-kakaolink",
+  "bugs": {
+    "url": "https://github.com/kucic/react-native-kakaolink/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kucic/react-native-kakaolink.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">= 0.51"
+  }
+}
